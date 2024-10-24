@@ -1,0 +1,56 @@
+html, body {
+  color: white;
+  background-color: black;
+  margin: 3px;
+  margin-bottom: 30px;
+  font-family: "Montserrat", sans-serif;
+  
+}
+
+.inicio{
+  background: #023B69;
+  margin: 20px;
+  padding: 2em;
+  display: flex;
+  font-size: 25px;
+  box-shadow: 2px 5px 5px red;
+}
+
+header{font-family: "Roboto", sans-serif;
+  color: red;
+  display: flex;
+  position: relative;
+  margin 20px;
+  padding: 0px;
+  font-size; 80px;
+  border-bottom: solid 2px green;
+}
+
+p{
+  text-align: justify;
+}
+
+.video{
+  margin-right: 50px;
+  align-items: center;
+  
+}
+
+
+header img{
+  width: 150px;
+  height: 150px;
+  margin-left: 10px;
+}
+
+.batata{
+  align
+  
+}
+
+h1{
+  font-size: 40px;
+  color: red
+    border-bottom: solid 3px white;
+  
+}
